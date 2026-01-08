@@ -1,8 +1,6 @@
+nombre = "Boris"
 def saludar(nombre):
-    print(f"Hola, {nombre}!")
-
-# Ejemplo de uso
-saludar("Mundo")
+    return f"Hola, {nombre}!"
 
 
-print(saludar())
+print(saludar(nombre))
