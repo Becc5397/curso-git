@@ -3,3 +3,6 @@ def saludar(nombre):
 
 # Ejemplo de uso
 saludar("Mundo")
+
+
+print(saludar())
